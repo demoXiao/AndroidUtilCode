@@ -1,3 +1,7 @@
+### 使用说明
+https://www.jianshu.com/p/72494773aace
+
+
 [![logo][logo]](https://github.com/Blankj/AndroidUtilCode)
 
 [![frame][frame]](https://github.com/Blankj/AucFrameTemplate)
